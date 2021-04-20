@@ -1,0 +1,47 @@
+.wholebox{
+    background-color:rgb(102, 206, 206);
+}
+
+h1{
+    display:flex;
+    justify-content: stretch;
+    color:#408082;
+}
+
+.h13{
+    font-size:15px;
+    display:flex;
+    justify-content:initial;
+}
+.h35{
+    font-style: italic;
+    font-size: 16px;
+    color:#395738;
+    display:block;
+}
+   
+.column{
+    font-style: italic;
+    font-size:15px;
+    flex:50%;
+    height:350px;
+    padding: 5px;
+    margin:12px;
+    
+}
+
+.column1{
+    font-style: normal;
+    font-weight: bold;
+    font-size:15px;
+    flex:50%;
+    height:350px;
+    padding: 5px;
+    margin:12px;
+}
+.box{
+    background-color:hotpink;
+    display:flex;
+    justify-content:space-between;
+
+}
